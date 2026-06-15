@@ -8,6 +8,10 @@ Most AI governance lives in frameworks and policy documents. My work is about wh
 
 Background in DevSecOps. Currently completing my doctorate at Capitol Technology University, with a thesis on ethical frameworks for human-AI collaboration in cybersecurity decision-making.
 
+## BridgeCore AI LLC
+*Engineering responsible AI governance for federal agencies and enterprises*
+[🔗 AI GRC Engineering Portfolio](https://github.com/BridgeCoreAI/ai-grc-engineering)
+
 ### Where I write
 
 - **Substack** (primary, long-form essays): https://graceadjeli.substack.com/
